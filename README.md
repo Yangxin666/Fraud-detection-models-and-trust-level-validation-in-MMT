@@ -70,8 +70,9 @@ Acknowledgments
 We want to show great thanks to Ms. Emilia and Mrs. Jay for their kind help and understanding during this project. We also appreciate Dr. Cybenko, Dr. Decker, and other professionals for their technical support. 
 
 References:
+
 NTNU. Synthetic Financial Datasets For Fraud Detection. Retrieved from https://www.kaggle.com/ntnu-testimon/paysim1
 
 Javelin Strategy & Research and SAS (2020). Study: Digital payments fraud surges during pandemic. Retrieved from
 https://www.prnewswire.com/news-releases/study-digital-payments-fraud-surges-during-pandemic-301155991.html
-![image](https://user-images.githubusercontent.com/47265586/119900373-71883300-bf12-11eb-91fc-239884b50c91.png)
+
