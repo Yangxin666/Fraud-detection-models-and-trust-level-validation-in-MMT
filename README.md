@@ -1,6 +1,6 @@
 # Fraud-detection-models-and-trust-level-validation-in-MMT (Mobile Money Transactions)
 
-All data proprocessing, fraud validation classifiers, functional validation, and trust level assignment are in 
+All data proprocessing, fraud validation classifiers, functional validation, and trust level assignment are in ML_system.ipynb.
 Motivation:
 Recently, mobile money service has been increasingly popular. Mobile payments reduce the need for people to carry payment methods like cash and allow people to make transactions using smartphones, which provide great convenience for people. However, financial deception in mobile money transactions is a big issue. According to the study done by Javelin Strategy & Research and SAS in 2020, an increase of almost 35% in fraud attempts in mobile money transactions (2020). Recently, machine learning models have shown promising results for classification problems and fraud detection problems. We want to create a service agent to select the best machine learning models, perform functional validation processes, and assign trust levels. 
 
